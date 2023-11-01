@@ -1,0 +1,4 @@
+ItemName_FR = {
+    ItemName_WellsConstruction.WellsConstructionMagazine = "Avant les canalisations",
+	ItemName_WellsConstruction.WellsConstructionMag = "Avant les canalisations",
+}
