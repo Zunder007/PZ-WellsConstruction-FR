@@ -1,0 +1,3 @@
+Recipe_FR = {
+	Recipe_build_well = "Construire un puits",
+}
